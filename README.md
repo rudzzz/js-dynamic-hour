@@ -1,7 +1,13 @@
 # js-dynamic-hour
-A project to practise my JavaScript skills, where depending on the current time, the image and the message will change.
 
+## 🇧🇷
+Neste projeto dependendo da hora que você visitá-lo, a imagem de fundo irá mudar.
+Você pode conferir clicando neste link: https://rudzzz.github.io/js-dynamic-hour/
+
+## 🇺🇸
+A project to practise my JavaScript skills, where depending on the current time, the image and the message will change.
 You can check it out by clicking in this link: https://rudzzz.github.io/js-dynamic-hour/
+
 
 ##
 ![example02](https://user-images.githubusercontent.com/97038663/152252555-0d6085f8-8f73-496a-816a-2609579b62ff.jpg)
